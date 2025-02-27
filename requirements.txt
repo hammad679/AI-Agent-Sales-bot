@@ -1,0 +1,7 @@
+langchain
+fastapi
+python-multipart
+pypdf
+chainlit
+pandas
+langchain-openai
